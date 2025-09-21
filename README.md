@@ -1,2 +1,1 @@
-# honeypot
-testing event visibility
+~thisishoneypot~
